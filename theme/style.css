@@ -4,6 +4,9 @@ h1 {
     background-color: aqua;
     color: black;
 }
+h2{
+    text-align: left;
+}
 body {
     text-align: right;
     border: 0;
