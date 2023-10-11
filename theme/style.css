@@ -1,8 +1,11 @@
-html, h2{
+html, head{
     text-align: center;
+    font-family: cursive;
+    background-color: aqua;
+    color: black;
 }
 html, body {
-    margin: auto;
+    text-align: right;
     border: 0;
     font-size: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
